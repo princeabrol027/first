@@ -45,7 +45,7 @@ Programming Languages
     first word emphasized, and the last item contains the final few
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
-  [my git account is ==](https://github.com/princeabrol027/first/edit/master/README.md)
+ 
 :   Basic knowledge of **C++**, **java**, **python**
 
 
