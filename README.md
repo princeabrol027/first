@@ -34,7 +34,7 @@ Open Source
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
+     which was actually totally
     your idea...
 
 Programming Languages
@@ -48,7 +48,7 @@ Programming Languages
 
 :   Basic knowledge of **C++**, **java**, **python**
 
-[ref]: https://github.com/princeabrol027/first/edit/master/README.md
+[my git account is ==]: https://github.com/princeabrol027/first/edit/master/README.md
 
 known Languages:
 ----------------------------------------
