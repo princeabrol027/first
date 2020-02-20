@@ -46,17 +46,9 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
 :   Basic knowledge of **C++**, **java**, **python**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/princeabrol027/first/edit/master/README.md
 
 known Languages:
 ----------------------------------------
